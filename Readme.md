@@ -1,5 +1,5 @@
 # Introduction
-This repository aims to show the result and the methodology used to achieve the objectives of the technical test. The task is based on binary clasification problem, using Python programming language for their development.
+This repository aims to show the result and the methodology used to achieve the objectives of the technical test. The task is based on binary classification problem, using Python programming language for their development.
 
 # Getting Started
 
